@@ -1,0 +1,27 @@
+[
+  {
+    "id": "test",
+    "title": "Sample Project",
+    "url": "https://example.com",
+    "imageUrl": "/res/sample-project.jpg",
+    "description": "Replace this entry in content/projects.json with your real project details.",
+    "order": 0
+  },
+  {
+    "id": "test2",
+    "title": "Sample Project2",
+    "url": "https://example.com2",
+    "imageUrl": "/res/sample22-project.jpg",
+    "description": "Replace22 this entry in content/projects.json with your real project details.",
+    "order": 1
+  }
+  ,
+  {
+    "id": "test3",
+    "title": "Sample Project23",
+    "url": "https://example.com32",
+    "imageUrl": "/res/sample22-pro33ject.jpg",
+    "description": "Replace22 t33his entry in content/projects.json with your real project details.",
+    "order": 1
+  }
+]
