@@ -24,4 +24,13 @@
     "description": "Replace22 t33his entry in content/projects.json with your real project details.",
     "order": 1
   }
+  ,
+  {
+    "id": "test5",
+    "title": "Sample Projec234t23",
+    "url": "https://example.234com32",
+    "imageUrl": "/res/sample32422-pro33ject.jpg",
+    "description": "Replace22 t32343his entry in content/projects.json with your real project details.",
+    "order": 1
+  }
 ]
