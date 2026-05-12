@@ -3,7 +3,7 @@
     "id": "test",
     "title": "Sample Project",
     "url": "https://example.com",
-    "imageUrl": "/res/sample-project.jpg",
+    "imageUrl": "img/logo.jpg",
     "description": "Replace this entry in content/projects.json with your real project details.",
     "order": 0
   }
