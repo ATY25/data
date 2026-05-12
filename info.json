@@ -3,7 +3,7 @@
     "id": "01",
     "title": "Restaurant",
     "url": "https://hotel-service-qfr0.onrender.com/admin/login",
-    "imageUrl": "img/hotel07.PNG",
+    "imageUrl": "img/hotel07.png",
     "description": "Site for restaurants where user can order using QR on each table. For Id and Pass, send mail from the message box given below",
     "order": 0
   }
