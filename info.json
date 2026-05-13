@@ -5,15 +5,15 @@
     "url": "https://hotel-service-qfr0.onrender.com/admin/login",
     "imageUrl": "img/hotel07.png",
     "description": "Site for restaurants where user can order using QR on each table. For Id and Pass, send mail from the message box given below",
-    "order": 2,
+    "order": 1,
     "colors": {
-      "topShade": "rgba(12, 12, 12, 0.88)",
-      "bottomPanel": "#0f172a",
+      "topShade": "rgba(8, 10, 18, 0.92)",
+      "bottomPanel": "#111827",
       "titleText": "#f8fafc",
-      "bodyText": "#cbd5e1",
-      "tagBackground": "rgba(56, 189, 248, 0.22)",
-      "tagText": "#67e8f9",
-      "linkText": "#93c5fd"
+      "bodyText": "#d1d5db",
+      "tagBackground": "rgba(255, 140, 0, 0.18)",
+      "tagText": "#ff9f1c",
+      "linkText": "#ffb347"
     }
   },
   {
@@ -22,49 +22,49 @@
     "url": "https://top.gg/bot/1287337050475069460?s=0014b8460e30f",
     "imageUrl": "img/trex.png",
     "description": "Discord moderation Bot which can detect banned words from img/gif",
-    "order": 1,
+    "order": 2,
     "colors": {
-      "topShade": "rgba(127, 29, 29, 0.86)",
-      "bottomPanel": "#1f2937",
-      "titleText": "#fee2e2",
-      "bodyText": "#fca5a5",
-      "tagBackground": "rgba(248, 113, 113, 0.24)",
-      "tagText": "#fecaca",
-      "linkText": "#fda4af"
+      "topShade": "rgba(5, 5, 10, 0.94)",
+      "bottomPanel": "#0f172a",
+      "titleText": "#f8fafc",
+      "bodyText": "#d1d5db",
+      "tagBackground": "rgba(255, 0, 25, 0.18)",
+      "tagText": "#ff3b3b",
+      "linkText": "#ff5c5c"
     }
   },
   {
-  "id": "03",
-  "title": "RobCraft",
-  "url": "https://www.roblox.com/games/100960268284736/",
-  "imageUrl": "img/building.png",
-  "description": "Minecraft like building game with block collapse physics",
-  "order": 3,
-  "colors": {
-    "topShade": "rgba(14, 165, 233, 0.82)",
-    "bottomPanel": "#1e293b",
-    "titleText": "#fef08a",
-    "bodyText": "#bae6fd",
-    "tagBackground": "rgba(34, 211, 238, 0.22)",
-    "tagText": "#e0f2fe",
-    "linkText": "#facc15"
-  }
-},
+    "id": "03",
+    "title": "RobCraft",
+    "url": "https://www.roblox.com/games/100960268284736/",
+    "imageUrl": "img/building.png",
+    "description": "Minecraft like building game with block collapse physics",
+    "order": 3,
+    "colors": {
+      "topShade": "rgba(14, 165, 233, 0.82)",
+      "bottomPanel": "#1e293b",
+      "titleText": "#fef08a",
+      "bodyText": "#bae6fd",
+      "tagBackground": "rgba(34, 211, 238, 0.22)",
+      "tagText": "#e0f2fe",
+      "linkText": "#facc15"
+    }
+  },
   {
-  "id": "04",
-  "title": "League Of Legends",
-  "url": "https://www.roblox.com/games/92177484416323/League-OF-Legends",
-  "imageUrl": "img/LoG.png",
-  "description": "Rocket League Inspired Game with lots of twists",
-  "order": 4,
-  "colors": {
-    "topShade": "rgba(255, 255, 255, 0.08)",
-    "bottomPanel": "#050505",
-    "titleText": "#f5f5f5",
-    "bodyText": "#d4d4d8",
-    "tagBackground": "rgba(255, 255, 255, 0.06)",
-    "tagText": "#ffffff",
-    "linkText": "#ff7a00"
+    "id": "04",
+    "title": "League Of Legends",
+    "url": "https://www.roblox.com/games/92177484416323/League-OF-Legends",
+    "imageUrl": "img/LoG.png",
+    "description": "Rocket League Inspired Game with lots of twists",
+    "order": 4,
+    "colors": {
+      "topShade": "rgba(255, 255, 255, 0.08)",
+      "bottomPanel": "#050505",
+      "titleText": "#f5f5f5",
+      "bodyText": "#d4d4d8",
+      "tagBackground": "rgba(255, 255, 255, 0.06)",
+      "tagText": "#ffffff",
+      "linkText": "#ff7a00"
+    }
   }
-}
 ]
