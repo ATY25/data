@@ -5,7 +5,16 @@
     "url": "https://hotel-service-qfr0.onrender.com/admin/login",
     "imageUrl": "img/hotel07.png",
     "description": "Site for restaurants where user can order using QR on each table. For Id and Pass, send mail from the message box given below",
-    "order": 2
+    "order": 2,
+    "colors": {
+      "topShade": "rgba(12, 12, 12, 0.88)",
+      "bottomPanel": "#0f172a",
+      "titleText": "#f8fafc",
+      "bodyText": "#cbd5e1",
+      "tagBackground": "rgba(56, 189, 248, 0.22)",
+      "tagText": "#67e8f9",
+      "linkText": "#93c5fd"
+    }
   },
   {
     "id": "02",
@@ -13,6 +22,15 @@
     "url": "https://top.gg/bot/1287337050475069460?s=0014b8460e30f",
     "imageUrl": "img/trex.png",
     "description": "Discord moderation Bot which can detect banned words from img/gif",
-    "order": 1
+    "order": 1,
+    "colors": {
+      "topShade": "rgba(127, 29, 29, 0.86)",
+      "bottomPanel": "#1f2937",
+      "titleText": "#fee2e2",
+      "bodyText": "#fca5a5",
+      "tagBackground": "rgba(248, 113, 113, 0.24)",
+      "tagText": "#fecaca",
+      "linkText": "#fda4af"
+    }
   }
 ]
