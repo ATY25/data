@@ -32,22 +32,5 @@
       "tagText": "#fecaca",
       "linkText": "#fda4af"
     }
-  },
-  {
-    "id": "023",
-    "title": "Tesstt",
-    "url": "https://top.gg/bot/1287337050475069460?s=0014b8460e30f",
-    "imageUrl": "img/trexs.png",
-    "description": "Discord moderation Bot which can detect banned words from img/gif",
-    "order": 3,
-    "colors": {
-      "topShade": "rgba(127, 29, 29, 0.86)",
-      "bottomPanel": "#1f2937",
-      "titleText": "#fee2e2",
-      "bodyText": "#fca5a5",
-      "tagBackground": "rgba(248, 113, 113, 0.24)",
-      "tagText": "#fecaca",
-      "linkText": "#fda4af"
-    }
   }
 ]
