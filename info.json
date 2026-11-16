@@ -2,7 +2,7 @@
   {
     "id": "01",
     "title": "Restaurant (QR)",
-    "url": "https://hoteltier3withbackup.onrender.com/admin/login",
+    "url": "https://restaurant.atyush.com/admin/login",
     "imageUrl": "img/hotel07.png",
     "description": "Site for restaurants where user can order using QR on each table. For Id and Pass, send mail from the message box given below",
     "order": 1,
@@ -31,40 +31,6 @@
       "tagBackground": "rgba(255, 0, 25, 0.18)",
       "tagText": "#ff3b3b",
       "linkText": "#ff5c5c"
-    }
-  },
-  {
-    "id": "03",
-    "title": "RobCraft",
-    "url": "https://www.roblox.com/games/100960268284736/",
-    "imageUrl": "img/building.png",
-    "description": "Minecraft like building game with block collapse physics",
-    "order": 3,
-    "colors": {
-      "topShade": "rgba(14, 165, 233, 0.82)",
-      "bottomPanel": "#1e293b",
-      "titleText": "#fef08a",
-      "bodyText": "#bae6fd",
-      "tagBackground": "rgba(34, 211, 238, 0.22)",
-      "tagText": "#e0f2fe",
-      "linkText": "#facc15"
-    }
-  },
-  {
-    "id": "04",
-    "title": "League Of Legends",
-    "url": "https://www.roblox.com/games/92177484416323/League-OF-Legends",
-    "imageUrl": "img/LoG.png",
-    "description": "Rocket League Inspired Game with lots of twists",
-    "order": 4,
-    "colors": {
-      "topShade": "rgba(255, 255, 255, 0.08)",
-      "bottomPanel": "#050505",
-      "titleText": "#f5f5f5",
-      "bodyText": "#d4d4d8",
-      "tagBackground": "rgba(255, 255, 255, 0.06)",
-      "tagText": "#ffffff",
-      "linkText": "#ff7a00"
     }
   }
 ]
