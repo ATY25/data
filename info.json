@@ -32,5 +32,22 @@
       "tagText": "#ff3b3b",
       "linkText": "#ff5c5c"
     }
+  },
+  {
+    "id": "03",
+    "title": "Lockin",
+    "url": "https://drive.google.com/drive/folders/1RtcE9bRAkxUtNtLazI1U25e9p6z4HTKl?usp=sharing",
+    "imageUrl": "img/lockin.png",
+    "description": "AI-powered focus and accountability app that blocks distractions, limits app usage, runs focus sessions, and helps users build better habits with an AI mascot coach.",
+    "order": 3,
+    "colors": {
+      "topShade": "rgba(8, 8, 10, 0.94)",
+      "bottomPanel": "#0C0C0E",
+      "titleText": "#F1EEE8",
+      "bodyText": "#D6D0C6",
+      "tagBackground": "rgba(242, 160, 61, 0.18)",
+      "tagText": "#F2A03D",
+      "linkText": "#FFB347"
+    }
   }
 ]
